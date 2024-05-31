@@ -1,0 +1,98 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeus Health Booking</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ffd700;
+        }
+        header h1 {
+            margin: 0;
+            color: #ffd700;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #111;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #ffd700;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #111;
+            color: #ffd700;
+            text-align: center;
+            padding: 10px 0;
+            border-top: 1px solid #ffd700;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Zeus Health Booking</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#mythology">Mythology & Health</a>
+        <a href="#services">Services</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="home" class="container">
+        <h2>Welcome to Zeus Health Booking</h2>
+        <p>Your trusted partner in health tourism. Discover the best solutions for hair transplantation, aesthetics, and dental treatments.</p>
+    </section>
+    <section id="about" class="container">
+        <h2>About Us</h2>
+        <p>Zeus Health Booking is dedicated to providing exceptional health tourism services. Our mission is to combine the wisdom of mythology with modern medical advancements to offer top-notch treatments.</p>
+    </section>
+    <section id="mythology" class="container">
+        <h2>Mythology & Health</h2>
+        <p>Explore the fascinating connections between mythology and health. Learn how ancient myths inspire modern medical practices.</p>
+    </section>
+    <section id="services" class="container">
+        <h2>Our Services</h2>
+        <h3>Hair Transplantation</h3>
+        <p>We offer state-of-the-art hair transplantation techniques to restore your confidence and achieve natural-looking results.</p>
+        <h3>Aesthetics</h3>
+        <p>Our aesthetic services include a variety of treatments to enhance your beauty and well-being.</p>
+        <h3>Dental Treatments</h3>
+        <p>From routine check-ups to advanced dental procedures, we provide comprehensive dental care to ensure your oral health.</p>
+    </section>
+    <section id="projects" class="container">
+        <h2>Our Projects</h2>
+        <p>Discover our latest projects and success stories. See how we've helped our clients achieve their health and aesthetic goals.</p>
+    </section>
+    <section id="contact" class="container">
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for more information about our services and how we can assist you in your health journey.</p>
+        <p>Email: info@zeushealthbooking.com</p>
+        <p>Phone: +90 123 456 7890</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Zeus Health Booking. All rights reserved.</p>
+    </footer>
+</body>
+</html>
